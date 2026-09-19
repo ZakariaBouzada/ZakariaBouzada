@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Zakaria%20Bouzada&fontSize=50&fontColor=58a6ff&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Zakaria%20Bouzada&fontSize=50&fontColor=0969da&animation=twinkling">
-  <img alt="Zakaria's Header" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Zakaria%20Bouzada&fontSize=50&fontColor=58a6ff">
-</picture>
-
 # Hi there, I'm Zakaria Bouzada 👋
 
 🎓 **Computer Engineering Master's Student** @ [Åbo Akademi University](https://www.abo.fi/)  
