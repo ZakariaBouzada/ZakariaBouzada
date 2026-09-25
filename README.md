@@ -1,4 +1,4 @@
-# Hi there, I'm Zakaria Bouzada 👋
+# Hello 👋
 
 🎓 **Computer Engineering Master's Student** @ [Åbo Akademi University](https://www.abo.fi/)  
 💻 **Specialization:** Cloud Computing, AI / LLMs, Data Analytics, and Scalable Infrastructure  
